@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jasminewilliams/Desktop/workspace/csharp/exercises/planner/Planner/Planner.csproj": {}
+    "/Users/jasminewilliams/Desktop/workspace/csharp/exercises/planner/Planner.csproj": {}
   },
   "projects": {
-    "/Users/jasminewilliams/Desktop/workspace/csharp/exercises/planner/Planner/Planner.csproj": {
+    "/Users/jasminewilliams/Desktop/workspace/csharp/exercises/planner/Planner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jasminewilliams/Desktop/workspace/csharp/exercises/planner/Planner/Planner.csproj",
+        "projectUniqueName": "/Users/jasminewilliams/Desktop/workspace/csharp/exercises/planner/Planner.csproj",
         "projectName": "Planner",
-        "projectPath": "/Users/jasminewilliams/Desktop/workspace/csharp/exercises/planner/Planner/Planner.csproj",
+        "projectPath": "/Users/jasminewilliams/Desktop/workspace/csharp/exercises/planner/Planner.csproj",
         "packagesPath": "/Users/jasminewilliams/.nuget/packages/",
-        "outputPath": "/Users/jasminewilliams/Desktop/workspace/csharp/exercises/planner/Planner/obj/",
+        "outputPath": "/Users/jasminewilliams/Desktop/workspace/csharp/exercises/planner/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jasminewilliams/.nuget/NuGet/NuGet.Config"
